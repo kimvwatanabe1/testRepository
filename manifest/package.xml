@@ -7,8 +7,6 @@
 	</types>
 	<types>
 		<members>NewStoreVisitWizardStep3</members>
-		<members>NewStoreVisitWizardStep4</members>
-		<members>Step2ToStep3Event</members>
 	</types>
 	<version>51.0</version>
 </Package>
