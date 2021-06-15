@@ -9,8 +9,6 @@
 		<members>NewStoreVisitWizardStep3</members>
 		<members>NewStoreVisitWizardStep4</members>
 		<members>Step2ToStep3Event</members>
-		<members>Step3ToStep4Event</members>
-		<name>AuraDefinitionBundle</name>
 	</types>
 	<version>51.0</version>
 </Package>
